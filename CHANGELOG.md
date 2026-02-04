@@ -1,3 +1,5 @@
+## 2.0.19
+- Uplifted eiffel-remrem-parent
 ## 2.0.5
 - Uplifted eiffel-remrem-parent version from 2.0.4 to 2.0.5 to resolve security vulnerability issue.
 
